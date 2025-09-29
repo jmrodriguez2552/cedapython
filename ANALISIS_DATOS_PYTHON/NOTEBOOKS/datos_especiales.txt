@@ -1,0 +1,5 @@
+    # Datos de sensores
+    sensor_id;medida;unidad
+    A01;23.5;C
+    A02;24.1;C
+    B01;68.0;%
